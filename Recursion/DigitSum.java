@@ -1,5 +1,5 @@
 package Recursion;
-
+//sum of individual digits of a number
 public class DigitSum {
     public static void main(String[] args) {
         int ans = sum(1342);
