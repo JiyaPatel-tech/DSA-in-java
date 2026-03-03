@@ -1,4 +1,5 @@
 package Recursion;
+//reverse the number using recursion
 
 public class revnum {
     public static void main(String[] args) {
