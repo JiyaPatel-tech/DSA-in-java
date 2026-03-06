@@ -1,5 +1,5 @@
 package Recursion;
-
+//WAP to count the number od zeros in a number
 public class CountZero {
     public static void main(String[] args) {
         System.out.println(count(30210));

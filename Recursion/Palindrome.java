@@ -1,4 +1,5 @@
 package Recursion;
+//Find where a number is Palindrome or not 
 public class Palindrome {
     static int rev(int n){
         int digit = (int)(Math.log10(n))+1;
